@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rutterksu
-- 👀 I’m a researcher in agronomy and soil science.
+- 👀 I’m a researcher in agronomy and soil science, and manage the KSRE Soil Testing Lab.
 
 <!---
 rutterksu/rutterksu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
